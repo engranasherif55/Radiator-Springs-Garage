@@ -1,9 +1,9 @@
-# 🏎️ Radiator Springs Garage Management System
+#  Radiator Springs Garage Management System
 
 A Python command-line (CLI) application built using Object-Oriented Programming (OOP) concepts to manage a vehicle garage fleet.
 
 ---
-## ✨ Key Features
+##  Key Features
 
 * **Object-Oriented Architecture:** 
   * Uses a base `Car` class with specialized `Racer` and `SupportVehicle` subclasses.
@@ -13,7 +13,7 @@ A Python command-line (CLI) application built using Object-Oriented Programming 
 
 ---
 
-## 🏗️ Class Overview
+##  Class Overview
 
 * **`Car` (Base Class):** Holds common attributes like Car Number, Name, Age, Team, Speed, and Capacity.
 * **`Racer`:** Extends `Car` to include `Races_Completed` and `Laps_Completed`, with a custom performance score calculation.
@@ -21,7 +21,7 @@ A Python command-line (CLI) application built using Object-Oriented Programming 
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 1. Make sure Python 3.x is installed.
 2. Open your terminal in the project directory.
