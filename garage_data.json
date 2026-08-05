@@ -1,0 +1,35 @@
+[
+    {
+        "type": "Racer",
+        "Car_Number": 4,
+        "Full_Name": "\u0643",
+        "Age": 5,
+        "Racing_Team": "\u0646",
+        "Speed": 7.0,
+        "Capacity": 7.0,
+        "Races_Completed": 7,
+        "Laps_Completed": 7
+    },
+    {
+        "type": "SupportVehicle",
+        "Car_Number": 8,
+        "Full_Name": "\u0644",
+        "Age": 7,
+        "Racing_Team": "\u0644",
+        "Speed": 9.0,
+        "Capacity": 9.0,
+        "Crew_Size": 5,
+        "Reliability_Rating": 7.0
+    },
+    {
+        "type": "SupportVehicle",
+        "Car_Number": 6,
+        "Full_Name": "k",
+        "Age": 1,
+        "Racing_Team": "h",
+        "Speed": 2.0,
+        "Capacity": 3.0,
+        "Crew_Size": 4,
+        "Reliability_Rating": 6.0
+    }
+]
