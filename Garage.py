@@ -219,7 +219,7 @@ while True:
     elif choice == 3:
         car_num = input("Enter Car Number to Tune-Up: ").strip()
         for car in garage:
-            if car.Car_Number==car_num:
+            if str(car.Car_Number)==car_num:
                 try:
                     new_speed=float(input(f"Enter new speed (current speed:{car.Speed})<"))
                     if new_speed:
@@ -250,8 +250,7 @@ while True:
                 except ValueError as e:
                     print(f"Input error:{e}")
                 break
-        else:
-            print("Car not found")
+        
     elif choice == 4:         
         car_num = int(input("Enter Car Number to be removed: "))
         for car in garage:
